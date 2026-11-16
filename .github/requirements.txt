@@ -1,0 +1,8 @@
+openai
+azure-identity
+azure-ai-projects
+google-api-python-client
+google-auth
+pandas
+requests
+python-dotenv
